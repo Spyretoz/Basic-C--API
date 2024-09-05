@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FirstC#API.props" />
+</Project>
